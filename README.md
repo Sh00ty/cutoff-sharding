@@ -1,0 +1,1 @@
+Cutoff-sharding is the library which can help you to build well horizontal scalable flex shading mechanism. It allows you to deny and then allow writing on certain shard, rebalance or change existing shading mechanism without migrations (vnodes, consistent hashing e.t.c.). With cutoffs you can do with you sharded database whatever you want.
